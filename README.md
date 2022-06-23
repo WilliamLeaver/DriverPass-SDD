@@ -3,7 +3,7 @@ System Design Document and Business Requirements Document created for CS-255
 
 - Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
 
-The Driverpass project followed the design of a system for the client DriverPass. This client wanted a system that would allow users to connect with instructors that --would teach them the skill required to pass the drivers license exams. 
+The Driverpass project followed the design of a system for the client DriverPass. This client wanted a system that would allow users to connect with instructors that would teach them the skill required to pass the drivers license exams. 
  - What did you do particularly well?
 
 I feel that my Buisness Requirements Document was the stornger part of the project. Using all of the information and interviews provided I put together an extensive background of the requirements put forth by DriverPass.
